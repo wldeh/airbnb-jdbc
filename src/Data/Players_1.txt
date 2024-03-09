@@ -1,0 +1,12 @@
+Mckenzie Allen,22,1,2
+Alexis Miller,22,5,9
+Avery Taylor,19,0,2
+Cameron White,19,0,2
+Casey Young,22,1,2
+Dakota Moore,20,0,3
+Jordan Carter,21,3,6
+Morgan Smith,24,4,7
+Parker Davis,21,3,7
+Peyton Turner,20,0,2
+Riley Johnson,20,1,2
+Spencer Hall,23,0,4
